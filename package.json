@@ -1,0 +1,15 @@
+{
+  "name": "coffe-break",
+  "version": "0.0.1",
+  "description": "this is a simple school project",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "eduardo luiz borghezan srmeow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
